@@ -103,6 +103,8 @@
 | 🐕 **Robot autonome MBOT** | Chien robot : code embarqué C (Arduino/STM32), prototypage, télécoms robot ↔ manette, soudure | `C` `Arduino` `STM32` |
 | 🏔️ **Drone chercheur d'avalanches** | R&D électronique embarquée : outil de test terrain avec visualisation graphique des capteurs (DAE System) | `Embedded` `Capteurs` |
 | 🤖 **Robotique mobile ROS 2** | Navigation et exécution de tâches/parcours sous Linux | `Python` `ROS2` `Linux` |
+| ⚡ **Wattmètre sur PCB custom** | PCB conçu de A à Z sous KiCad : routage, soudure des composants, débogage et tests, couplé à une Arduino Mega pour la mesure de puissance | `KiCad` `PCB` `Arduino Mega` `Soudure` |
+| 🏢 **Outil de réservation de salles** | Application Python de réservation de salles de coworking (salle info, salle de réunion...) avec gestion des créneaux et des disponibilités | `Python` |
 
 ---
 
@@ -128,4 +130,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:2a4d8f,100:00c6ff&height=120&section=footer" width="100%"/>
 
-</div>s
+</div>
