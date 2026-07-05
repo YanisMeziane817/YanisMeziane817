@@ -106,29 +106,6 @@
 
 ---
 
-## 📊 Stats GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YanisMeziane817&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanisMeziane817&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YanisMeziane817&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YanisMeziane817&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophées"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YanisMeziane817&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Graphe d'activité"/>
-
-</div>
-
----
-
 ## 🌍 Langues & Intérêts
 
 <div align="center">
@@ -143,7 +120,7 @@
 
 <div align="center">
 
-### 📬 Un projet aéro/spatial/embarqué ? Parlons-en !
+### 📬 Contact
 
 <a href="mailto:yanismeziane.psup@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yanis-meziane-920a96266/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -151,4 +128,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:2a4d8f,100:00c6ff&height=120&section=footer" width="100%"/>
 
-</div>
+</div>s
