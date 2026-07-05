@@ -5,7 +5,7 @@
 
 <!-- Texte qui s'écrit tout seul -->
 <a href="https://github.com/YanisMeziane817">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=%C3%89l%C3%A8ve-ing%C3%A9nieur+%40+ENSISA+(ASE);Syst%C3%A8mes+embarqu%C3%A9s+%7C+STM32+%7C+ROS2;Passionn%C3%A9+d'A%C3%A9ronautique+%26+Spatial;Stage+PFE+%E2%80%94+Janvier+2027+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=%C3%89l%C3%A8ve-ing%C3%A9nieur+%40+ENSISA+(ASE);Syst%C3%A8mes+embarqu%C3%A9s+%7C+STM32+%7C+ROS2;Passionn%C3%A9+d'A%C3%A9ronautique+%26+Spatial+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,6 @@
 - 🎓 Élève-ingénieur à l'**ENSISA** (Mulhouse) — spécialité **Automatique & Systèmes Embarqués**
 - 🇨🇦 Semestre à l'**Université de Sherbrooke** (Canada) — Gestion de l'ingénierie *(août → déc. 2026)*
 - ✈️ Passionné depuis toujours par l'**aéronautique** et le **spatial**
-- 🔭 **Je recherche un stage de fin d'études de 6 mois (janvier 2027)** dans l'aérospatial / aéronautique / nautique
 - 🤖 Membre du club de robotique **MBOT** — conception d'un robot autonome (chien robot)
 - 🩺 Dernier gros projet : **cardiographe embarqué STM32** + classification d'arythmies par **CNN 1D** (MIT-BIH)
 
